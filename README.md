@@ -1,4 +1,5 @@
-# Coffeeorders-go
+# Coffeeorders-go-2
+A replacement for https://github.com/audstanley/coffeeorders-go
 
 is an API for [Front-End Web Development: The Big Nerd Ranch Guide](https://a.co/d/egDG6ub)
 The book is missing some endpoints, and this GoLang Project recreates those endpoints and is compiled for windows, mac, and linux.
@@ -37,3 +38,4 @@ You are welcome to:
 <a href='https://ko-fi.com/A687KA8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/useruploads/1e427eff-8866-46b7-bd55-03c85e75c6c1_9aa005d7-97dd-4a17-86d5-b01d4e7b47bb.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 Or stop by my blog [audstanley.com](https://www.audstanley.com)
+
